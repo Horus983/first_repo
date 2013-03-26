@@ -1,4 +1,4 @@
 first_repo
 ==========
 
-This is my first repo!
+This is the first repo I'm putting on DIY!
